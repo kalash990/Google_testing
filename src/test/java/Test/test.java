@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
  
 import Helper.BaseTest;
 import Helper.Interactions;
-import testprojectt.testprojectt.App;
+<!-- import testprojectt.testprojectt.App; -->
  
 public class test extends BaseTest {
 
